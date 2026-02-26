@@ -22,8 +22,6 @@
       "cards",
       "columns",
       "fragment",
-      "form",
-      "embed-adaptive-form",
       "product-teaser",
       "product-recommendations"
     ]
@@ -39,8 +37,6 @@
       "cards",
       "columns",
       "fragment",
-      "form",
-      "embed-adaptive-form",
       "product-teaser",
       "product-recommendations"
     ]
@@ -56,8 +52,6 @@
       "cards",
       "columns",
       "fragment",
-      "form",
-      "embed-adaptive-form",
       "enrichment",
       "product-teaser",
       "product-recommendations",
@@ -75,8 +69,6 @@
       "cards",
       "columns",
       "fragment",
-      "form",
-      "embed-adaptive-form",
       "enrichment",
       "product-details",
       "product-teaser",
